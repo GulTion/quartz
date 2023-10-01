@@ -1,0 +1,8 @@
+- volatile, const, signed , unsigned and int default size is 4 ![[Pasted image 20231001213814.png]]
+- ![[Pasted image 20231001213927.png]] it will give error of `error: lvalue required as increment operand` bcz we can't change the address of the array `a`
+- ![[Pasted image 20231001215133.png]]![[Pasted image 20231001215145.png]]
+- ![[Pasted image 20231001225415.png]]
+- ![[Pasted image 20231002010737.png]]
+- ![[Pasted image 20231002010938.png]]
+- ![[Pasted image 20231002011149.png]]
+- ![[Pasted image 20231002012236.png]]
