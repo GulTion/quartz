@@ -1,0 +1,3 @@
+- find the number of blocked process using semaphore sum![[Pasted image 20231002132831.png]]
+- ![[Pasted image 20231002183808.png]]
+- 
