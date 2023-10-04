@@ -1,0 +1,7 @@
+- type of parser![[Pasted image 20231004085003.png]]
+- Left Recursive Elimination![[Pasted image 20231004085202.png]]
+- Checking of LL(1) grammer ![[Pasted image 20231004085455.png]]
+- Handle & Handel Pruning ![[Pasted image 20231004085615.png]]
+- Bottom Up Parser Features ![[Pasted image 20231004085820.png]]
+- Operator Precedence Parser![[Pasted image 20231004090030.png]]
+- 

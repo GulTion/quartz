@@ -1,0 +1,40 @@
+# Must DONE
+## By Heart Revision
+| Subject | Done? | Must Do | Next Day |
+| ------- | ----- | ------- | -------- |
+| DM      |       |         |          |
+| EM      |       |         |          |
+| TOC     |       |         |          |
+| DS      |       |         |          |
+| DAA     |       |         |          |
+| DLD     |       |         |          |
+| C       |       |         |          |
+| DBMS    |       |         |          |
+| COA     |       |         |          |
+| APTI    |       |         |          |
+| OS      |       |         |          |
+
+## New Learning
+| Subject | Done? | will Learn | Next Day |
+| ------- | ----- | ---------- | -------- |
+| DM      |       |            |          |
+| EM      |       |            |          |
+| TOC     |       |            |          |
+| DS      |       |            |          |
+| DAA     |       |            |          |
+| DLD     |       |            |          |
+| C       |       |            |          |
+| DBMS    |       |            |          |
+| COA     |       |            |          |
+| APTI    |       |            |          |
+| OS      |       |            |          |
+
+
+## CONTENT FOR TS REVISION
+- data
+
+## TEST SERIES  Analysis and marking
+- data
+
+## Last Day Revision
+- data
