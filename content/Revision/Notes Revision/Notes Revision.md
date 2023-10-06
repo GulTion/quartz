@@ -5,3 +5,4 @@
 [[OS-notes]]
 [[Apti-notes]]
 [[DLD-notes]]
+[[DBMS-notes]]

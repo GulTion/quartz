@@ -1,9 +1,10 @@
-![[TimeTable]]
+# [[TimeTable]]
 # Revision
-- [[PYQ]]
+- [[PYQ]] ^96be26
 - [[ZealRevision]]
 - [[TEST PROGRESS]]
 - [[Notes Revision]]
+- [[Refer UANOTES]]
 # 2hr Distribuation
 - 4 segments in each subject
 	- 30 PYQ
@@ -29,7 +30,4 @@
 # Useful link
 1. [Test Series](https://uxkhzfstdjcborfuyyknhkhbyfnskrywvveioufkbjkupomnptjwvhbavkysuhi.vercel.app/)
 2. [PYQ - TopicWise - Practice Paper](https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers)
-
-
-![[Test Canvas.canvas|Test Canvas]]
 
