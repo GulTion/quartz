@@ -9,7 +9,7 @@
     
     ![Untitled](Revision/PYQRevision/COA/media/Untitled%202.png)
     
-    solution
+    solution![[Pasted image 20231007183456.png]]
     
 - Only Structural Hazard , Different Cycle for Execution stage
     
@@ -21,9 +21,7 @@
     
     ![Untitled](Revision/PYQRevision/COA/media/Untitled%205.png)
     
-- Different type of instruction have Diffrent Stall e.g CPI calculation
-    
-    ![Untitled](Revision/PYQRevision/COA/media/Untitled%206.png)
+- Different type of instruction have Diffrent Stall e.g CPI calculation![Untitled](Revision/PYQRevision/COA/media/Untitled%206.png)
     
     solution
     

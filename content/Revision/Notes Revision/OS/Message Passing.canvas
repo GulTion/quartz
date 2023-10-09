@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e69e543a419a0c20","x":-356,"y":162,"width":231,"height":97,"color":"2","type":"text","text":"Direct or Indirect Communication"},
+		{"id":"a36d61d65f1bbf74","x":420,"y":171,"width":250,"height":100,"color":"2","type":"text","text":"Automatic or explicit buffering"},
+		{"id":"22883e9446e75aa7","type":"text","text":"Synchronous or asynchronous communication","x":-20,"y":240,"width":231,"height":120,"color":"2"},
+		{"id":"9ea26aa38ff3be89","x":-54,"y":-40,"width":265,"height":90,"color":"1","type":"text","text":"Different Methods to Implement a Link"}
+	],
+	"edges":[
+		{"id":"72508c9c064afcb4","fromNode":"9ea26aa38ff3be89","fromSide":"bottom","toNode":"e69e543a419a0c20","toSide":"top"},
+		{"id":"a4ef06a1c006db3d","fromNode":"9ea26aa38ff3be89","fromSide":"bottom","toNode":"22883e9446e75aa7","toSide":"top"},
+		{"id":"c9b996cc5c19f9bd","fromNode":"9ea26aa38ff3be89","fromSide":"bottom","toNode":"a36d61d65f1bbf74","toSide":"top"}
+	]
+}
