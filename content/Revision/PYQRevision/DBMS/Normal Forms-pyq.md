@@ -1,3 +1,7 @@
+---
+type: PYQ
+subject: DBMS
+---
 - ![[Pasted image 20231007213949.png]]![[Pasted image 20231007214022.png]]
 - statment about the prime attribute![[Pasted image 20231007214323.png]]![[Pasted image 20231007214348.png]]
 - Check BCNF from the statement condition![[Pasted image 20231008095838.png]]![[Pasted image 20231008095924.png]]

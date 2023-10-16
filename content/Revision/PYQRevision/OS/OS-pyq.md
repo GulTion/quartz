@@ -1,3 +1,0 @@
-[[CPU Scheduling]]
-[[IPC]]
-[[Memory]]

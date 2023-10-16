@@ -1,3 +1,0 @@
-- [[Revision/PYQRevision/COA/Number System|Number System]]
-- [[Type of Questions in Pipeline]]
-- [[pipline]]

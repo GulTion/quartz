@@ -1,0 +1,2 @@
+- average speed![[Pasted image 20231015130115.png]]
+- 

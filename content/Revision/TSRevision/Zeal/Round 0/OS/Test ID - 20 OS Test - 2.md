@@ -4,6 +4,8 @@ allDay: true
 date: 2023-10-02
 completed: 
 syllabus: Inter-Process Communication, Concurrency And SynchronizationAnd Deadlock.
+subject: OS
+type: ZealTS
 ---
 # Stack
 - All Solution By Heart

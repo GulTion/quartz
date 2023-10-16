@@ -1,0 +1,6 @@
+---
+type: ShortNotes
+---
+- Approaach to sentence completion![[Pasted image 20231005141816.png]]
+- ![[Pasted image 20231005141939.png]]
+- 

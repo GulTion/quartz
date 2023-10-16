@@ -4,6 +4,8 @@ allDay: true
 date: 2023-09-28
 completed: 
 type: ZealTS
+subject: COA
+subType: topicWise
 ---
 # Number System COA
 
@@ -24,7 +26,7 @@ type: ZealTS
 
 
 ## PYQ
-![[Revision/PYQRevision/COA/Number System|Number System]]
+![[Revision/COA/Number System|Number System]]
 
 
 # TEST 

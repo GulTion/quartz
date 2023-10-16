@@ -1,3 +1,6 @@
+---
+type: folder
+---
 # Subjects
 - [[C]]
 

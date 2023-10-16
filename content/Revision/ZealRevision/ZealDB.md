@@ -39,7 +39,7 @@ columns:
     key: startQ
     id: startQ
     label: startQ
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -59,7 +59,7 @@ columns:
     key: endQ
     id: endQ
     label: endQ
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -79,7 +79,7 @@ columns:
     key: totalQ
     id: totalQ
     label: totalQ
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -99,7 +99,7 @@ columns:
     key: atQ
     id: atQ
     label: atQ
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -119,7 +119,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -129,6 +129,8 @@ columns:
       - { label: "DM", value: "DM", color: "hsl(10, 95%, 90%)"}
       - { label: "OS", value: "OS", color: "hsl(300, 95%, 90%)"}
       - { label: "MATH", value: "MATH", color: "hsl(27, 95%, 90%)"}
+      - { label: "COA", value: "COA", color: "hsl(38, 95%, 90%)"}
+      - { label: "DBMS", value: "DBMS", color: "hsl(127, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -144,7 +146,7 @@ columns:
     key: last_time
     id: last_time
     label: last_time
-    position: 8
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -182,7 +184,7 @@ columns:
     key: complete_till
     id: complete_till
     label: complete_till
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -202,10 +204,10 @@ columns:
     key: next_time
     id: next_time
     label: next_time
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
-    sortIndex: 1
+    sortIndex: 2
     isSorted: true
     isSortedDesc: false
     config:
@@ -218,11 +220,38 @@ columns:
       footer_type: none
       persist_changes: false
       formula_query: "${row.last_time.plus({days: row.repeation}).toFormat(\"y-LL-d\")}"
+  type:
+    input: select
+    accessorKey: type
+    key: type
+    id: type
+    label: type
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: 1
+    width: 150
+    isSorted: true
+    isSortedDesc: true
+    options:
+      - { label: "zealWorkBook", value: "zealWorkBook", color: "hsl(3, 95%, 90%)"}
+      - { label: "folder", value: "folder", color: "hsl(236,100%,85%)"}
+      - { label: "DataBase", value: "DataBase", color: "hsl(235, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: 
+  group_folder_column: subject
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
@@ -237,7 +266,7 @@ config:
   source_destination_path: /
   row_templates_folder: /templates
   current_row_template: 
-  pagination_size: 200
+  pagination_size: 20
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

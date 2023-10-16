@@ -1,3 +1,9 @@
+---
+type: MixQue
+subject: COA
+repeation: 7
+last_time: 2023-10-14T00:00:00.000+05:30
+---
 
 - all Stage of all instruction are different![Untitled](Revision/PYQRevision/COA/media/Untitled.png)
     
