@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"25f1971564ebd3b3","type":"group","x":-600,"y":-404,"width":220,"height":332,"label":"Status"},
+		{"id":"7418965a3b4522c6","type":"text","text":"","x":-580,"y":-384,"width":180,"height":292},
+		{"id":"5c22451bbd006a9e","type":"text","text":"End","x":-560,"y":-180,"width":140,"height":58},
+		{"id":"d85214dde6834a59","type":"text","text":"Running","x":-560,"y":-360,"width":140,"height":60,"color":"4"},
+		{"id":"7ca2f59cc81d79c5","type":"text","text":"Ready","x":-560,"y":-268,"width":140,"height":60,"color":"1"}
+	],
+	"edges":[]
+}

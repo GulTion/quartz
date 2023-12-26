@@ -1,0 +1,171 @@
+
+DaskBoard Back.md
+DaskBoard Back.md#2hr Distribuation
+DaskBoard Back.md#Complete the Test Series of the Subjects
+DaskBoard Back.md#ONE data Pattern (Revision 1)
+DaskBoard Back.md#TASK
+DialyStuff/2023-10-06.md
+DialyStuff/2023-10-07.md
+DialyStuff/2023-10-08.md
+DialyStuff/2023-10-09.md
+DialyStuff/2023-10-10.md
+DialyStuff/2023-10-11.md
+DialyStuff/2023-10-12.md
+DialyStuff/2023-10-13.md
+DialyStuff/2023-10-14.md
+DialyStuff/2023-10-15.md
+DialyStuff/2023-10-16.md
+DialyStuff/2023-10-17.md
+DialyStuff/2023-10-18.md
+DialyStuff/2023-10-19.md
+DialyStuff/2023-10-20.md
+DialyStuff/2023-10-21.md
+DialyStuff/2023-10-22.md
+DialyStuff/2023-10-22.md#Day planner
+DialyStuff/2023-10-22.md#OS
+DialyStuff/2023-10-23.md
+DialyStuff/2023-10-24.md
+Gk.md
+MicroNoteArrage.md
+Revision/GOTS/DBMS/GO Classes Test Series 2023  Databases  Test 4.md
+Revision/GOTS/DM/Discrete Mathematics Test 4 - Combintories.md
+Revision/GOTS/GOTSDB.md
+Revision/GOTS/MATH/GO Classes Test Series 2023  Probability  Test.md
+Revision/MadeEasyTS/APTI/GENERAL APTITUDE-1 (GATE 2023).md
+Revision/MadeEasyTS/FULL/Basic Level Full Syllabus Test -1 (GATE 2023).md
+Revision/MadeEasyTS/FULL/FULL SYLLABUS TEST-1 (BASIC LEVEL) (GATE 2022).md
+Revision/MadeEasyTS/MadeEasyTSDB.md
+Revision/MicroNotes/APTI/Voca.md
+Revision/MicroNotes/COA/Disk Memory in Input output.md
+Revision/MicroNotes/COA/Formula for Pipeline.md
+Revision/MicroNotes/COA/complements of number.md
+Revision/MicroNotes/DLD/Flip Flops.md
+Revision/MicroNotes/DLD/Invalid State in binary code representation.md
+Revision/MicroNotes/DM/Micro-DM-combinatorics.md
+Revision/MicroNotes/DSA/Tree MicroNotes.md
+Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md
+Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md#Math#Probability#**How to find the Mode of the Binomial Distribution?**
+Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md#Math#Probability#**How to find the Mode of the Binomial Distribution?**#**Case 1**: When (n+1)p is an integer
+Revision/MicroNotes/MATH/Mode of the Binomial Distribution.md#Math#Probability#**How to find the Mode of the Binomial Distribution?**#**Case 2**: When (n+1)p is not an integer
+Revision/MicroNotes/MicroNotesDB.md
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md#Closure Properties Trick of CFL notes/TOC/Closure_properties/CFG#CLOSURE
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md#Closure Properties Trick of CFL notes/TOC/Closure_properties/CFG#NOT CLOSURE
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md#Equivalence Between CFL and CFG notes/TOC/CFG/equivalenceCFL
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md#Type of Normal Form notes/TOC/CFG/NormalForm/Types#CNF notes/TOC/CFG/NormalForm/Types/CNF
+Revision/MicroNotes/TOC/Context Free Grammer and Language.md#iii) Eliminate useless-symbols.
+Revision/MixQue/APTI/Antonym Synonym.md
+Revision/MixQue/APTI/Antonym Synonym.md#Antonyms
+Revision/MixQue/APTI/Antonym Synonym.md#Synonms
+Revision/MixQue/APTI/Time , Speed & Distance.md
+Revision/MixQue/APTI/Time and Work.md
+Revision/MixQue/COA/Type of Questions in Pipeline.md
+Revision/MixQue/DLD/Sequential Circule.md
+Revision/MixQue/DM/Combintories.md
+Revision/MixQue/MixQueDB.md
+Revision/PYQ/C/Full C.md
+Revision/PYQ/COA/Interrupt - pyq.md
+Revision/PYQ/COA/Number System.md
+Revision/PYQ/COA/pipline.md
+Revision/PYQ/DBMS/Normal Forms-pyq.md
+Revision/PYQ/DM/recurrence DM PYQ.md
+Revision/PYQ/DS/Hashing.md
+Revision/PYQ/FULL/GATE 2021 SET-2.md
+Revision/PYQ/MATH/Linear_Algebra_PYQ.md
+Revision/PYQ/MATH/Probability.md
+Revision/PYQ/OS/CPU Scheduling - pyq.md
+Revision/PYQ/OS/IPC.md
+Revision/PYQ/OS/Memory.md
+Revision/PYQ/OS/Process - pyq.md
+Revision/PYQ/PYQDB.md
+Revision/PYQ/Untitled.md
+Revision/RevisionDB.md
+Revision/ShortNotes/CD/Introduction CD notes.md
+Revision/ShortNotes/CD/Parser CD notes.md
+Revision/ShortNotes/CN/Application Layer.md
+Revision/ShortNotes/CN/Error Control.md
+Revision/ShortNotes/CN/TCP Notes.md
+Revision/ShortNotes/COA/Binary Operation Overflow stuff.md
+Revision/ShortNotes/COA/Floating Point Tables.md
+Revision/ShortNotes/COA/Floating Point Tricks.md
+Revision/ShortNotes/COA/I O ShortNotes.md
+Revision/ShortNotes/COA/connexion of register into system bus.md
+Revision/ShortNotes/DBMS/Sql - applied notes.md
+Revision/ShortNotes/DS/Sorting.md
+Revision/ShortNotes/DS/Sorting.md#Merge Sort
+Revision/ShortNotes/DS/Sorting.md#Merge Sort#Implementation
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Bubble Sort notes/ALGO/sorting/bubble_sort
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Implementation
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Implementation{1}
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Implementation{2}
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Insertion Sort notes/ALGO/sorting/insertion_sort
+Revision/ShortNotes/DS/Sorting.md#Sorting notes/ALGO/sorting#Selection Sort notes/ALGO/sorting/selection_sort
+Revision/ShortNotes/DS/Sorting.md#Time Complexities of Sorting Algorithms
+Revision/ShortNotes/DS/Stack.md
+Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md
+Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md#In multithreading, each thread has its own, which of the things
+Revision/ShortNotes/OS/INTRODUCTION AND BACKGROUND OF OS - GATEOMEDIA.md#In multithreading, the threads of the same process share, which of the things
+Revision/ShortNotes/OS/Process Syncronization.md
+Revision/ShortNotes/ShortNotesDB.md
+Revision/ZealTS/C/TEST ID-7 C-Prog.md
+Revision/ZealTS/CN/Test ID - 14 CN Test - 1 2023.md
+Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md
+Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md#Notes
+Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md#STACK
+Revision/ZealTS/CN/Test ID - 17 CN Test - 4.md#Test Series Questions
+Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md
+Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md#Analysis
+Revision/ZealTS/COA/Test ID - 26 CSO Test - 1.md#TEST
+Revision/ZealTS/COA/Test ID - 27 CSO Test - 2.md
+Revision/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md
+Revision/ZealTS/DBMS/TEST ID-2 DM-2.md
+Revision/ZealTS/DBMS/Test 4 DBMS TEST ID 34.md
+Revision/ZealTS/DSA/TEST ID-9  DSA-1.md
+Revision/ZealTS/FULL/Test ID - 83 Mock - 7 - 2022.md
+Revision/ZealTS/OS/Test ID - 19 OS Test - 1.md
+Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md
+Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md#Stack
+Revision/ZealTS/OS/Test ID - 20 OS Test - 2.md#Test Series Anlaysis
+Revision/ZealTS/TOC/Test ID - 36 Toc Test - 1 - 2023.md
+Revision/ZealTS/ZealTSDB.md
+Revision/media/Notes Revision/OS/Message Passing.canvas
+Revision/relation algbera.md
+Revision/zealWorkBook/C/C.md
+Revision/zealWorkBook/CN/2 Data Link Layer Error Control.md
+Revision/zealWorkBook/CN/3 Data Link Layer Flow Control.md
+Revision/zealWorkBook/CN/4 Data Link Layer Medium Access Control solutions.md
+Revision/zealWorkBook/CN/5 Network Layer Solutions.md
+Revision/zealWorkBook/CN/Application Layer 1.md
+Revision/zealWorkBook/CN/TCP.md
+Revision/zealWorkBook/COA/IO device.md
+Revision/zealWorkBook/COA/Memory Management.md
+Revision/zealWorkBook/COA/Number System.md
+Revision/zealWorkBook/DBMS/Indexing DBMS ZEAL at 47.md
+Revision/zealWorkBook/DBMS/Nomalization.md
+Revision/zealWorkBook/DBMS/TRANSACTION-zeal.md
+Revision/zealWorkBook/DM/Basic Vertex and Edge Calculation.md
+Revision/zealWorkBook/DM/Bipartite Graph and its Properties.md
+Revision/zealWorkBook/DM/Bridge and Spanning Tree.md
+Revision/zealWorkBook/DM/Chromatic Number.md
+Revision/zealWorkBook/DM/DS advanced.md
+Revision/zealWorkBook/DM/DS advanced.md#3D
+Revision/zealWorkBook/DM/DS advanced.md#3D#Column order
+Revision/zealWorkBook/DM/DS advanced.md#3D#row-order
+Revision/zealWorkBook/DM/DS advanced.md#Comparison of function Asymptotically notes/algo/asymptotic/comparison
+Revision/zealWorkBook/DM/Graph Theory - Mixing Random Question.md
+Revision/zealWorkBook/DM/Partial Order Relation-zeal.md
+Revision/zealWorkBook/DM/Planner and its Properties.md
+Revision/zealWorkBook/DS/Searching sorting Basic Solution final.md
+Revision/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md
+Revision/zealWorkBook/MATH/1 Basic concept of probability.md
+Revision/zealWorkBook/MATH/2 CONDITIONAL PROBABILITY.md
+Revision/zealWorkBook/MATH/3 RANDOM VARIABLES, EXPECTATION AND VARIANCE.md
+Revision/zealWorkBook/MATH/4 Binomial distribution.md
+Revision/zealWorkBook/OS/10. FILE SYSTEM AND DISK SCHEDULING.pdf.md
+Revision/zealWorkBook/OS/2. FORK SYSTEM CALL.md
+Revision/zealWorkBook/OS/6. PAGE REPLACEMENT.pdf.md
+Revision/zealWorkBook/OS/7. SEGMENT PAGE TABLE AND INVERT PAGE.md
+Revision/zealWorkBook/OS/8. TLB HIT MISS.md
+Revision/zealWorkBook/OS/InterProcess Communication.md
+Revision/zealWorkBook/TOC/12 epi-NFA closure.md
+Revision/zealWorkBook/TOC/14 FA to Language and Vice Versa.md

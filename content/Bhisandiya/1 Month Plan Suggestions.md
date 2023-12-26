@@ -1,0 +1,6 @@
+- Exploring Near By Places
+- Learning About Hindi
+	- Reading Crammer and Rules
+	- Watching Movies (hindi)(with English subtitle)
+	- Exploring about Hinduism and it's Culture
+- Gardening

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"418c693853d3b0c9","type":"text","text":"DS","x":-252,"y":-92,"width":100,"height":60,"color":"1"},
+		{"id":"abf4c8551a4a0db1","type":"text","text":"**B-TREE & B+TREE**","x":-32,"y":-32,"width":220,"height":60,"color":"1"},
+		{"id":"e3999714918b75a9","type":"text","text":"⭐⭐⭐Recursion In Functions","x":-32,"y":-122,"width":285,"height":60,"color":"1"},
+		{"id":"d50ae27b45100ebc","type":"text","text":"**Expression Evaluation**\n- postix\n- prefix","x":-32,"y":-325,"width":200,"height":171,"color":"1"},
+		{"id":"62b2c03eea182fda","type":"text","text":"- LINKED LIST\n- DLL","x":-32,"y":246,"width":220,"height":80,"color":"1"},
+		{"id":"ef6a9f9fb7b0067d","type":"text","text":"⭐⭐⭐**AVL TREE**\n- insertion\n- deletion\n- rotation","x":-640,"y":-314,"width":180,"height":160},
+		{"id":"9cf1071cf80f1256","x":253,"y":46,"width":400,"height":400,"color":"1","type":"file","file":"Revision/Que/zealWorkBook/DSA/ADA Test – 2 -zealworkbook 2.md"}
+	],
+	"edges":[
+		{"id":"34a68023e5449254","fromNode":"418c693853d3b0c9","fromSide":"right","toNode":"d50ae27b45100ebc","toSide":"left"},
+		{"id":"b8e1f51aa143cb3e","fromNode":"418c693853d3b0c9","fromSide":"right","toNode":"e3999714918b75a9","toSide":"left"},
+		{"id":"c54dbba37afc30e4","fromNode":"418c693853d3b0c9","fromSide":"right","toNode":"abf4c8551a4a0db1","toSide":"left"},
+		{"id":"7f660710509cd5b2","fromNode":"418c693853d3b0c9","fromSide":"right","toNode":"62b2c03eea182fda","toSide":"left"},
+		{"id":"a1f60e795ef7d226","fromNode":"418c693853d3b0c9","fromSide":"right","toNode":"9cf1071cf80f1256","toSide":"left"},
+		{"id":"396ab76c84ee5778","fromNode":"418c693853d3b0c9","fromSide":"left","toNode":"ef6a9f9fb7b0067d","toSide":"right"}
+	]
+}

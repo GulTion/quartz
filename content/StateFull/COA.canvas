@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"535f0b00a83b4526","type":"text","text":"# DMA practice","x":100,"y":-260,"width":250,"height":100,"color":"1"},
+		{"id":"8922b1fb9e85dcd8","type":"text","text":"# MicroProgrammed","x":100,"y":20,"width":360,"height":60,"color":"1"},
+		{"id":"eb086a2554d9121a","type":"text","text":"# COA","x":-140,"y":-120,"width":140,"height":100,"color":"4"},
+		{"id":"899ebe6de899aecd","type":"file","file":"Revision/TS/ZealTS/COA/Test ID - 29 CSO Test - 4 - 2023.md","x":80,"y":120,"width":400,"height":400,"color":"1"},
+		{"id":"a286aedb8cfce7d1","type":"text","text":"**Learning to Draw Data Hazard PipleLIne Chart**","x":540,"y":140,"width":250,"height":100},
+		{"id":"74a4b0b04fc91255","x":80,"y":640,"width":300,"height":60,"color":"4","type":"text","text":"# GateOMEdiA"}
+	],
+	"edges":[
+		{"id":"e7bbcd1b21031a2d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"535f0b00a83b4526","toSide":"left"},
+		{"id":"0f5878ec11c0978d","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"8922b1fb9e85dcd8","toSide":"left"},
+		{"id":"40dd4e10e090fa74","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"899ebe6de899aecd","toSide":"left"},
+		{"id":"0f53e2b84c0f2d4d","fromNode":"899ebe6de899aecd","fromSide":"right","toNode":"a286aedb8cfce7d1","toSide":"left"},
+		{"id":"abd1e61ae8fd12c6","fromNode":"eb086a2554d9121a","fromSide":"right","toNode":"74a4b0b04fc91255","toSide":"left"}
+	]
+}

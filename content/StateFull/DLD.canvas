@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ecc847ea7d40a27f","type":"text","text":"# Sequential Circuit","x":-560,"y":-50,"width":340,"height":110,"color":"4"},
+		{"id":"a097011952d4c2b0","type":"text","text":"**11.mp4**\n*at*: 0min\n*what*: Race Around Condition","x":780,"y":-450,"width":300,"height":200},
+		{"id":"e3f3aaa7fb94a412","type":"text","text":"**9.mp4**\nat: 1hr ","x":800,"y":-900,"width":240,"height":130},
+		{"id":"68f381bf230c97f7","type":"text","text":"**10.mp4**\nat: 1hr 20min\n*what*: make circute of counter from sequence","x":800,"y":-710,"width":240,"height":200},
+		{"id":"ab1e0cab2df68cc8","type":"text","text":"**shortnote taking** \n*what*: excitation table of each FF's \n*from*: GateOMedia\n*atP*: 54","x":1120,"y":-770,"width":250,"height":190},
+		{"id":"16dca7eaac58c9c4","type":"text","text":"**shortnote taking** \n*what*: Formulas for Decoder, Encoder , MUX and DEMUX \n*from*: MadeEasySHortNotes\n*atP*: 54","x":1400,"y":-770,"width":250,"height":240},
+		{"id":"addb800c490cbf5e","type":"file","file":"Revision/Que/zealWorkBook/DLD/3. Sequential Circuit - zealworkbook.md","x":-40,"y":-250,"width":400,"height":430,"color":"1"},
+		{"id":"faeffd76e830ce47","type":"text","text":"**Video For Concept**\nFrom: ZEal","x":300,"y":-530,"width":300,"height":140},
+		{"id":"649f69252f6320ab","type":"file","file":"Revision/Que/zealWorkBook/MATH/Calculus - ZealWorkBook.md","x":450,"y":360,"width":400,"height":400},
+		{"id":"2186c5d3b122b93f","type":"file","file":"Revision/TS/ZealTS/FULL/Test ID - 79 Mock - 5 - 2023.md","x":-100,"y":360,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"409d552786af3374","fromNode":"ecc847ea7d40a27f","fromSide":"right","toNode":"addb800c490cbf5e","toSide":"left"},
+		{"id":"a2ecf656b78e3a02","fromNode":"faeffd76e830ce47","fromSide":"right","toNode":"e3f3aaa7fb94a412","toSide":"left"},
+		{"id":"b698ee1637273743","fromNode":"e3f3aaa7fb94a412","fromSide":"top","toNode":"16dca7eaac58c9c4","toSide":"top"},
+		{"id":"dde52d5f8d2f3315","fromNode":"e3f3aaa7fb94a412","fromSide":"right","toNode":"ab1e0cab2df68cc8","toSide":"left"},
+		{"id":"e9bf3db66c877298","fromNode":"faeffd76e830ce47","fromSide":"right","toNode":"68f381bf230c97f7","toSide":"left"},
+		{"id":"8f60c7cb26090619","fromNode":"faeffd76e830ce47","fromSide":"right","toNode":"a097011952d4c2b0","toSide":"left"},
+		{"id":"672ad4ddc7aaa5c1","fromNode":"ecc847ea7d40a27f","fromSide":"right","toNode":"2186c5d3b122b93f","toSide":"left"},
+		{"id":"6f0d39e59e968c68","fromNode":"2186c5d3b122b93f","fromSide":"right","toNode":"649f69252f6320ab","toSide":"left"},
+		{"id":"80e217362881b225","fromNode":"addb800c490cbf5e","fromSide":"top","toNode":"faeffd76e830ce47","toSide":"left"}
+	]
+}

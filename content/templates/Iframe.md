@@ -1,0 +1,1 @@
+<center><iframe width="800" height="500" src="<% tp.system.clipboard() %>"></iframe></center>

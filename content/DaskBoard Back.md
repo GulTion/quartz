@@ -63,7 +63,6 @@
 	- [ ] Notes on Closure Properties, List of Theorem, Decidability&Undecidability,.pdf
 	- [ ] TOC -1.pdf
 	- [ ] TOC -2.pdf
-
 - [ ] DM & EM
 	- [ ] DM
 		- [ ] 'Graph Theory Basic Solution final.pdf'
@@ -105,21 +104,22 @@
 		- [ ] Routing algorithms DVR
 
 
-| **Expected Marks** | **Subject**                                      |
-|:------------------:| ------------------------------------------------ |
-|         4          | Compiler design                                  |
-|         6          | Digital logic                                    |
-|         6          | Theory of computation                            |
-|         7          | Algorithms                                       |
-|         7          | DBMS                                             |
-|         8          | Computer architecture                            |
-|         9          | Operating systems                                |
-|         10         | Computer networking                              |
-|         13         | Discrete mathematics and Engineering mathematics |
-|         15         | C-programming  &  Data structures                |
-|         15         | General Aptitude                                 |
+# Completed GATEOMEDIA NOTEs
 
 
+| Subject                                | Weightage (marks) |
+| -------------------------------------- | ----------------- |
+| General Aptitude (GA)                  | 15                |
+| Engineering Mathematics                | 13                |
+| Programming and Data Structures        | 12-13             |
+| Algorithms                             | 8-9               |
+| Theory of Computation                  | 7-8               |
+| Computer Networks                      | 7-8               |
+| Operating Systems                      | 7-8               |
+| Computer Organization and Architecture | 6-7               |
+| Database Management Systems            | 5-6       
+|Compiler Design|3-4|        |
+| Digital Logic Design (DLD)             | 3-4               |
 
 # Complete the Test Series of the Subjects
 Subject Wise

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dc908f1994d384b7","x":-220,"y":-260,"width":400,"height":400,"color":"4","type":"file","file":"Revision/Que/PYQ/APTI/Numerical Ability-pyq.md"},
+		{"id":"41e52771de16c6d1","type":"text","text":"# APTI","x":-520,"y":-110,"width":140,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"fddbcfa7b0c0321a","fromNode":"41e52771de16c6d1","fromSide":"right","toNode":"dc908f1994d384b7","toSide":"left"}
+	]
+}

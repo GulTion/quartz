@@ -1,5 +1,0 @@
----
-subject: DM
-type: zealWorkBook
----
-- LUB, GLB concept![[Pasted image 20231008124445.png]]![[Pasted image 20231008124501.png]]![[Pasted image 20231008124513.png]]

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"30495a52ddb8469d","type":"text","text":"# ALGO","x":-340,"y":-160,"width":160,"height":60,"color":"4"},
+		{"id":"1f879eac9da63ca3","type":"text","text":"**Practice Bellman Ford**","x":-60,"y":-360,"width":200,"height":80,"color":"1"},
+		{"id":"38720d4cd8aec0be","x":-60,"y":-200,"width":400,"height":400,"color":"4","type":"file","file":"Revision/Que/zealWorkBook/DSA/Data Structure II (Tree & Graphs) Basic Solution.md"}
+	],
+	"edges":[
+		{"id":"70efce3f1e2f0a77","fromNode":"30495a52ddb8469d","fromSide":"right","toNode":"1f879eac9da63ca3","toSide":"left"},
+		{"id":"db9fae4a2a5168ec","fromNode":"30495a52ddb8469d","fromSide":"right","toNode":"38720d4cd8aec0be","toSide":"left"}
+	]
+}

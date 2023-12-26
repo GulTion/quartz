@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4618253b75696819","type":"text","text":"# NAT\n","x":-160,"y":-200,"width":140,"height":60,"color":"1"},
+		{"id":"69b2187b8cea1a20","type":"text","text":"# ICMP","x":-160,"y":-20,"width":250,"height":60}
+	],
+	"edges":[]
+}

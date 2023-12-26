@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"09fed89cdf64b005","type":"file","file":"Revision/Que/zealWorkBook/MATH/Linear Algebra-zeal.md","x":-20,"y":-460,"width":400,"height":400,"color":"4"},
+		{"id":"1b103600aef3e89d","type":"text","text":"# Linear Algbera","x":-380,"y":-320,"width":250,"height":120,"color":"4"},
+		{"id":"9a4152ba24e323cc","type":"text","text":"# Probability","x":-380,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"7659a28fe9f471a0","type":"file","file":"Revision/TS/ZealTS/MATH/TEST ID-44 Maths-4.md","x":-20,"y":40,"width":400,"height":400,"color":"4"},
+		{"id":"ad71c4b7ab0d841d","type":"text","text":"# MATH","x":-740,"y":-100,"width":160,"height":70,"color":"4"},
+		{"id":"067d44064f90598b","type":"text","text":"# Combintories","x":-380,"y":620,"width":280,"height":60,"color":"4"},
+		{"id":"5029c03b75661cf3","type":"file","file":"Revision/TS/ZealTS/MATH/TEST ID-43 Maths-3.md","x":-20,"y":540,"width":400,"height":400,"color":"4"},
+		{"id":"125c803f99a93c28","type":"text","text":"# Calculus","x":-380,"y":-760,"width":250,"height":60,"color":"4"},
+		{"id":"adffb62f2035f9a5","type":"file","file":"Revision/TS/ZealTS/MATH/TEST ID-42 Maths-2.md","x":-20,"y":-1100,"width":400,"height":400,"color":"1"},
+		{"id":"03309ebbe85826ad","type":"text","text":"**Video Determinates**\n*from*: shreanikJain\n*at*: 6th video ","x":-20,"y":-1400,"width":280,"height":120,"color":"4"},
+		{"id":"6593e5b8f62b5083","x":560,"y":-465,"width":400,"height":400,"color":"4","type":"file","file":"Revision/Que/PYQ/MATH/Linear_Algebra_PYQ.md"},
+		{"id":"8c5f31e9bbd08b81","x":1200,"y":-460,"width":320,"height":205,"type":"text","text":"# matrix decompotion\n*from*: zealNotes"}
+	],
+	"edges":[
+		{"id":"28712b032031a8f4","fromNode":"1b103600aef3e89d","fromSide":"right","toNode":"09fed89cdf64b005","toSide":"left"},
+		{"id":"dc6869ec127474c8","fromNode":"9a4152ba24e323cc","fromSide":"right","toNode":"7659a28fe9f471a0","toSide":"left"},
+		{"id":"033b1de4e0420dd2","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"1b103600aef3e89d","toSide":"left"},
+		{"id":"5a64b7d6fe432223","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"9a4152ba24e323cc","toSide":"left"},
+		{"id":"7d1dd7265e33c01f","fromNode":"067d44064f90598b","fromSide":"right","toNode":"5029c03b75661cf3","toSide":"left"},
+		{"id":"bbd15dbd5806bf86","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"067d44064f90598b","toSide":"left"},
+		{"id":"9de1b51f9e624ce7","fromNode":"ad71c4b7ab0d841d","fromSide":"right","toNode":"125c803f99a93c28","toSide":"left"},
+		{"id":"8809e64c6470d971","fromNode":"125c803f99a93c28","fromSide":"right","toNode":"adffb62f2035f9a5","toSide":"left"},
+		{"id":"c25f4a840d30578e","fromNode":"125c803f99a93c28","fromSide":"right","toNode":"03309ebbe85826ad","toSide":"left"},
+		{"id":"cb7936b25c8c76ad","fromNode":"09fed89cdf64b005","fromSide":"right","toNode":"6593e5b8f62b5083","toSide":"left"},
+		{"id":"f30c6c1400b118b4","fromNode":"6593e5b8f62b5083","fromSide":"right","toNode":"8c5f31e9bbd08b81","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2e681b8892322f23","type":"text","text":"# OS","x":-153,"y":-128,"width":133,"height":68,"color":"1"},
+		{"id":"6b246e7b1283ee9a","type":"text","text":"**DeadLock**\n1. Resources Allocation Graph\n2. Bankers Algorithm \n3. Number of Process and Resources for Deadlock ","x":100,"y":-244,"width":260,"height":300,"color":"1"},
+		{"id":"6d4b8de88f717d4d","type":"text","text":"**Disk schuling**\n- CSCAN\n- SCAN\n- SFCS\n- LOOK\n- CLOOK","x":100,"y":100,"width":200,"height":240,"color":"1"},
+		{"id":"7d6444f28ce5819b","type":"text","text":"**Fork call Practice**","x":100,"y":-360,"width":220,"height":60,"color":"1"},
+		{"id":"a206ecd607c0e264","x":60,"y":-540,"width":320,"height":100,"type":"text","text":"# ME SHORTNOTES"}
+	],
+	"edges":[
+		{"id":"19186831d07b00ba","fromNode":"2e681b8892322f23","fromSide":"right","toNode":"6b246e7b1283ee9a","toSide":"left"},
+		{"id":"cd7e2fff2cec0b89","fromNode":"2e681b8892322f23","fromSide":"right","toNode":"6d4b8de88f717d4d","toSide":"left"},
+		{"id":"a7e20b4637ef17af","fromNode":"2e681b8892322f23","fromSide":"right","toNode":"7d6444f28ce5819b","toSide":"left"},
+		{"id":"a8c87ca430d157ce","fromNode":"2e681b8892322f23","fromSide":"right","toNode":"a206ecd607c0e264","toSide":"left"}
+	]
+}

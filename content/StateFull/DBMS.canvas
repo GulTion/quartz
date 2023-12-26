@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fe9e74362380fd57","x":-300,"y":-80,"width":180,"height":60,"type":"text","text":"# DBMS"},
+		{"id":"5ecbeb8330e2b585","x":20,"y":-200,"width":250,"height":60,"type":"text","text":"# SQL"}
+	],
+	"edges":[
+		{"id":"3aecbab99bce2ac0","fromNode":"fe9e74362380fd57","fromSide":"right","toNode":"5ecbeb8330e2b585","toSide":"left"}
+	]
+}
